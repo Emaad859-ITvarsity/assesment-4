@@ -1,0 +1,17 @@
+table {
+    border-color: rgb(9, 47, 241);
+    
+}
+
+th{
+    background-color: aqua;
+
+}
+td{
+    padding:8px
+}
+
+th{
+    text-align: center;
+    font-weight: 900;
+}
